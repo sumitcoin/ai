@@ -17,3 +17,15 @@ Learning order I recommend
 ✅ Multi-Agent Systems
 ✅ Production Deployment
 ✅ Build real-world AI projects
+
+pip install -U langchain langchain-openai openai python-dotenv
+
+pip install langchain
+pip install openai
+pip install uv
+
+uv is installed, but its Scripts folder is not in PATH.
+$env:Path += ";C:\Users\sumit\AppData\Roaming\Python\Python313\Scripts"
+
+Adding it permanently 
+setx PATH "$env:PATH;C:\Users\sumit\AppData\Roaming\Python\Python313\Scripts"
