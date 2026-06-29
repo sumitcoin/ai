@@ -1,0 +1,124 @@
+1. Python (Must Complete First)
+freeCodeCamp – Python for Beginners (Full Course)
+https://www.youtube.com/watch?v=rfscVS0vtbw
+Corey Schafer – Python Playlist (excellent explanations)
+https://www.youtube.com/@coreyms/playlists
+Programming with Mosh – Python
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
+---------------------------- DONE ------------------------------
+2. AI Fundamentals
+Andrew Ng – AI for Everyone
+https://www.coursera.org/learn/ai-for-everyone
+Google Machine Learning Crash Course
+https://developers.google.com/machine-learning/crash-course
+---------------------------- DONE ------------------------------
+3. Generative AI
+DeepLearning.AI – Generative AI Courses
+https://www.deeplearning.ai/short-courses/
+---------------------------- DONE ------------------------------
+These are some of the best free short courses available for modern AI development.
+
+4. LangChain
+Official LangChain Documentation
+https://python.langchain.com/
+LangChain Overview
+https://docs.langchain.com/
+Build a RAG Application with LangChain
+https://docs.langchain.com/oss/python/langchain/rag
+
+5. MCP (Model Context Protocol)
+Official LangChain MCP Documentation
+https://docs.langchain.com/oss/python/langchain/mcp
+DeepLearning.AI + Anthropic MCP Course
+https://www.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic
+---------------------------- DONE ------------------------------
+
+6. AI Agents
+OpenAI Agents SDK
+https://openai.github.io/openai-agents-python/
+LangGraph
+https://langchain-ai.github.io/langgraph/
+CrewAI
+https://docs.crewai.com/
+
+7. RAG
+Official LangChain RAG Tutorial
+https://docs.langchain.com/oss/python/langchain/rag
+LlamaIndex Documentation
+https://docs.llamaindex.ai/
+
+8. Ollama (Highly Recommended)
+
+Since Anthropic requires API credits, start with Ollama.
+
+https://ollama.com
+
+Learn:
+
+Install Ollama
+Run Llama 3
+Run Qwen
+Run Mistral
+Build local chatbots
+
+No API cost.
+
+9. Hugging Face
+https://huggingface.co/learn
+
+Learn:
+
+Transformers
+Pipelines
+Tokenizers
+Models
+
+10. Vector Databases
+ChromaDB
+FAISS
+Pinecone
+Weaviate
+
+Start with ChromaDB.
+
+11. YouTube Channels
+freeCodeCamp
+https://www.youtube.com/@freecodecamp
+Codebasics
+https://www.youtube.com/@codebasics
+Krish Naik
+https://www.youtube.com/@krishnaik06
+AssemblyAI
+https://www.youtube.com/@AssemblyAI
+LangChain
+https://www.youtube.com/@LangChain
+Anthropic
+https://www.youtube.com/@AnthropicAI
+
+12. GitHub Repositories
+LangChain
+https://github.com/langchain-ai/langchain
+LangGraph
+https://github.com/langchain-ai/langgraph
+CrewAI
+https://github.com/crewAIInc/crewAI
+AutoGen
+https://github.com/microsoft/autogen
+LlamaIndex
+https://github.com/run-llama/llama_index
+
+Learning order I recommend
+✅ Python
+✅ Prompt Engineering
+✅ OpenAI API / Ollama
+✅ LangChain
+✅ RAG
+✅ Vector Databases
+✅ AI Agents
+✅ MCP
+✅ LangGraph
+✅ Multi-Agent Systems
+✅ Production Deployment
+✅ Build real-world AI projects
+
+Given your 13+ years of Java and Spring Boot experience, you'll likely progress quickly once you have Python fundamentals. Focus on building projects such as an AI document assistant, a local RAG chatbot, and an MCP-enabled agent—these will showcase your skills effectively.
