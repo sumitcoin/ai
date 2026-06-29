@@ -1,0 +1,19 @@
+# Install dependencies
+%pip install anthropic python-dotenv
+
+powersell
+pip install anthropic python-dotenv
+
+Learning order I recommend
+✅ Python
+✅ Prompt Engineering
+✅ OpenAI API / Ollama
+✅ LangChain
+✅ RAG
+✅ Vector Databases
+✅ AI Agents
+✅ MCP
+✅ LangGraph
+✅ Multi-Agent Systems
+✅ Production Deployment
+✅ Build real-world AI projects
